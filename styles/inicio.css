@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
+.titulos{
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+/*#info_torneos{
+    margin-right: 5%;
+    margin-left: 10%;
+    float: left;
+    width: 50%;
+    text-align: justify;
+    float: left;
+}*/
+
+.img {
+    width: 100%;
+}
+
+.cuadros{
+    height: 25rem;
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+    margin-top: 2%;
+    display: block;
+    position: relative;
+}
+
+.contenedor{
+    float: left;
+    width: 24%;
+    margin: 0.5%;
+}
+
+.btn {
+    margin-top: 2%;
+}
+
+.celeste {
+    background-color: #0A9DAE;
+    width: 100%;
+}
+
+p{
+    font-size: 15px;
+}
